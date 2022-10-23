@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body{
+  margin: 0px;
+  font-family: 'Bree Serif', serif;
+  text-shadow: 5px 5px 8px #B2B2B2;
+}
+
+h1{
+  color: #98A8F8;
+  font-weight:  bold;
+}
+
+li{
+  list-style:  none;
+
+}
+
+/* Profile */
+#profile{
+    background-color: rgba(184, 232, 252, 0.5);
+    box-shadow: 3px 3px 5px #B2B2B2;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-left: 10rem;
+    padding-bottom: 5rem;
+
+
+}
+#profile-photo{
+  float: left;
+}
+
+.about{
+  padding-top: 5rem;
+  padding-left: 3rem;
+
+}
+#name{
+  font-size: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+  font weight: bolder;
+  padding-left: 20rem;
+}
+.sub-content{
+    font-weight: bold;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+    line-height: 0.2rem;
+    padding-left: 20rem;
+}
+
+hr{
+  border-top: 0.5rem;
+  border-top-style: dotted;
+  color: #B8E8FC;
+  width: 10rem;
+}
+
+/* Continuition */
+#education{
+    font-family: 'Bree Serif', serif;
+    background-color: #FDFDBD;
+    box-shadow: 7px 7px 7px 4px #B2B2B2;
+    margin-top: 2rem;
+    margin-left: 2.2rem;
+    margin-right: 0rem;
+    padding: 4rem;
+    font-size: 1.2rem;
+    border-radius: 2rem;
+    width: 25rem;
+    height: 20rem;
+    text-shadow: 5px 5px 8px black;
+}
+
+#skills{
+  font-family: 'Bree Serif', serif;
+  background-color: #C8FFD4;
+  box-shadow: 7px 7px 7px 4px #B2B2B2;
+  margin-top: 2.2rem;
+  margin-left: 8rem;
+  margin-right: 18rem;
+  padding: 5rem;
+  font-size: 1.2rem;
+  border-radius: 2rem;
+  width: 25rem;
+  height: 20rem;
+  text-shadow: 5px 5px 8px black;
+}
+
+#hobbies{
+  font-family: 'Bree Serif', serif;
+  background-color: #B1AFFF;
+  box-shadow: 7px 7px 7px 4px #B2B2B2;
+  margin-top: 2.2rem;
+  margin-left: 16rem;
+  margin-right: 18rem;
+  padding: 5rem;
+  font-size: 1.2rem;
+  border-radius: 2rem;
+  width: 23rem;
+  height: 20rem;
+  text-shadow: 5px 5px 8px black;
+}
+.heading1{
+  color: #C8FFD4;
+}
+
+.heading3{
+  color: #FDFDBD;
+}
